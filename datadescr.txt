@@ -1,0 +1,117 @@
+    Profile: Anon (2)
+    	Application: VLC
+    Enter: Auto Rotate (3)
+
+    Profile: Anon (4)
+    	State: Headset Plugged [ Type:Any ]
+    Enter: Open VLC (5)
+
+    Profile: Food Control (6)
+    	Restore: no
+    	Time: From 09:00 every 30m Till 21:00
+    Enter: RNG Daily Reminder (10)
+
+Scene: Screen Timeout Spinner
+	P:607x1248	L:607x1080 
+
+		Orientation: System
+		Background Colour: #00FFFFFF
+		Action Bar Style: System
+		Title: Scrt10
+		Subtitle: 
+		Icon: null
+		Tab Labels: 
+
+Element: Text1/Text
+	Geometry:
+		P:0,0 607x168 L:0,30 607x168
+	Content:
+		Text: 
+		Text Size: 20
+		Text Width Scale Percent: 100
+		Text Colour: #FFFFFFFF
+		Font: 
+		Position: Centre
+		Vertical Fit Mode: None
+		Text Format: Plain Text
+
+Element: Spinner1/Spinner
+	Geometry:
+		P:0,0 607x168 L:0,30 607x168
+	Content:
+		Source: Manual
+		Variable: 
+		Item Layout: spinner
+		Popup Background Colour: 
+	Items:
+		1. Label: 
+		2. Label: 15 Seconds Action: Display Timeout [ Secs:15 Mins:0 Hours:0 ]
+		3. Label: 30 Seconds Action: Display Timeout [ Secs:30 Mins:0 Hours:0 ]
+		4. Label: 1 Minute Action: Display Timeout [ Secs:0 Mins:1 Hours:0 ]
+		5. Label: 2 Minutes Action: Display Timeout [ Secs:0 Mins:2 Hours:0 ]
+		6. Label: 5 Minutes Action: Display Timeout [ Secs:0 Mins:5 Hours:0 ]
+		7. Label: 10 Minutes Action: Display Timeout [ Secs:0 Mins:10 Hours:0 ]
+
+Element: Image1/Image
+	Geometry:
+		P:15,35 100x100 L:15,62 100x100
+	Content:
+		Image: mw_hardware_smartphone
+		Alpha: 255
+	Events:
+		Click: 13
+
+Task:     Auto Rotate (3)
+    	A1: Display AutoRotate [ Set:Off ] 
+    	A2: Force Rotation [ Mode:Portrait Alternative Method (Check Help):Off ] 
+    
+Task:     Open VLC (5)
+    	A1: Launch App [ Package/App Name:VLC Data: Exclude From Recent Apps:Off Always Start New Copy:Off ] 
+    
+Task:     Placeholder Notif (8)
+    	A1: Notify [ Title:DND Text:Scheduled DND is off Icon:mw_notification_do_not_disturb_on Number:0 Permanent:On Priority:5 Repeat Alert:Off LED Colour:Red LED Rate:0 Sound File: Vibration Pattern: Category:super_tasker_notifications_created_by_me_the_developer ] 
+    	A2: [X] Notify Cancel [ Title: Warn Not Exist:Off ] 
+    
+Task:     RNG Daily Reminder (10)
+    	A1: If [ %TIME ~ 09.00 ]
+    	A2: If [ %TimeRNG !Set ]
+    	A3: Variable Randomize [ Name:%TimeRNG Min:1 Max:25 ] 
+    	A4: Variable Set [ Name:%TimeCount To:0 Recurse Variables:Off Do Maths:Off Append:Off Max Rounding Digits:3 ] 
+    	A5: End If 
+    	A6: End If 
+    	A7: Variable Add [ Name:%TimeCount Value:1 Wrap Around:0 ] 
+    	A8: If [ %TimeRNG eq %TimeCount ]
+    	A9: Notify [ Title:Go Grab Some Food Text:Its time to eat Icon:mw_maps_restaurant_menu Number:0 Permanent:Off Priority:5 Repeat Alert:Off LED Colour:Red LED Rate:0 Sound File: Vibration Pattern: Category: ] 
+    	A10: Variable Clear [ Name:%TimeRNG Pattern Matching:Off Local Variables Only:Off Clear All Variables:Off ] 
+    	A11: Variable Clear [ Name:%TimeCount Pattern Matching:Off Local Variables Only:Off Clear All Variables:Off ] 
+    	A12: End If 
+    
+Task:     1 Tap Save (11)
+    	A1: Display Brightness [ Level:25 Disable Safeguard:Off Ignore Current Level:Off Immediate Effect:Off ] 
+    	A2: Auto-Sync [ Set:Off ] 
+    	A3: Display Timeout [ Secs:15 Mins:0 Hours:0 ] 
+    	A4: WiFi [ Set:Off ] 
+    	A5: Bluetooth [ Set:Off ] 
+    	A6: Display AutoRotate [ Set:Off ] 
+    	A7: Torch [ Set:Off ] 
+    	A8: Sound Mode [ Mode:Mute ] 
+    	A9: Power Mode [ Mode:Battery Saver ] 
+    
+Task:     Scrt 10 (12)
+    	A1: Popup [ Title: Text: Background Image: Layout:Screen Timeout Spinner Timeout (Seconds):15 Show Over Keyguard:On ] 
+    
+Task:     Anon (13)
+    	A1: Display Settings 
+    
+Task:     Toggle (21)
+    	A1: If [ %Toggle ~ 1 ]
+    	A2: Variable Set [ Name:%Toggle To:0 Recurse Variables:Off Do Maths:Off Append:Off Max Rounding Digits:3 ] 
+    	A3: Torch [ Set:Off ] 
+    	A4: Else 
+    	A5: Variable Set [ Name:%Toggle To:1 Recurse Variables:Off Do Maths:Off Append:Off Max Rounding Digits:0 ] 
+    	A6: Torch [ Set:On ] 
+    	A7: End If 
+    
+Task:     Batt Sets (23)
+    	A1: Power Usage Settings 
+    

@@ -1,0 +1,1000 @@
+<TaskerData sr="" dvi="1" tv="5.9.2">
+	<dmetric>1080.0,1920.0</dmetric>
+	<Setting sr="prefs0">
+		<n>leEnle</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs1">
+		<n>tsEmpty</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs10">
+		<n>lEnable</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs11">
+		<n>mFn</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs12">
+		<n>custntasktwo</n>
+		<t>s</t>
+		<v>Batt Sets</v>
+	</Setting>
+	<Setting sr="prefs13">
+		<n>pen</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs14">
+		<n>apl</n>
+		<t>i</t>
+		<v>4</v>
+	</Setting>
+	<Setting sr="prefs15">
+		<n>appcheckMethod</n>
+		<t>i</t>
+		<v>1</v>
+	</Setting>
+	<Setting sr="prefs16">
+		<n>apn</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs17">
+		<n>proxWhenOff</n>
+		<t>i</t>
+		<v>1</v>
+	</Setting>
+	<Setting sr="prefs18">
+		<n>acrmd</n>
+		<t>l</t>
+		<v>1200</v>
+	</Setting>
+	<Setting sr="prefs19">
+		<n>mSi</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs2">
+		<n>guped</n>
+		<t>l</t>
+		<v>120</v>
+	</Setting>
+	<Setting sr="prefs20">
+		<n>sHapt</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs21">
+		<n>themeMaterial</n>
+		<t>i</t>
+		<v>2</v>
+	</Setting>
+	<Setting sr="prefs22">
+		<n>magnetWhenOff</n>
+		<t>i</t>
+		<v>2</v>
+	</Setting>
+	<Setting sr="prefs23">
+		<n>humidityWhenOff</n>
+		<t>i</t>
+		<v>2</v>
+	</Setting>
+	<Setting sr="prefs24">
+		<n>lperiod</n>
+		<t>l</t>
+		<v>1500</v>
+	</Setting>
+	<Setting sr="prefs25">
+		<n>bkcuva</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs26">
+		<n>lcD</n>
+		<t>s</t>
+		<v></v>
+	</Setting>
+	<Setting sr="prefs27">
+		<n>aExt</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs28">
+		<n>acMSr</n>
+		<t>l</t>
+		<v>300</v>
+	</Setting>
+	<Setting sr="prefs29">
+		<n>btpiod</n>
+		<t>l</t>
+		<v>120</v>
+	</Setting>
+	<Setting sr="prefs3">
+		<n>pressureWhenOff</n>
+		<t>i</t>
+		<v>1</v>
+	</Setting>
+	<Setting sr="prefs30">
+		<n>wakeForLoc</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs31">
+		<n>dsd</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs32">
+		<n>hardwareAccel</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs33">
+		<n>workForLoc</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs34">
+		<n>adbwp</n>
+		<t>s</t>
+		<v>5555</v>
+	</Setting>
+	<Setting sr="prefs35">
+		<n>custntaskone</n>
+		<t>s</t>
+		<v>1 Tap Save</v>
+	</Setting>
+	<Setting sr="prefs36">
+		<n>wfpiod</n>
+		<t>l</t>
+		<v>120</v>
+	</Setting>
+	<Setting sr="prefs37">
+		<n>ast1</n>
+		<t>s</t>
+		<v></v>
+	</Setting>
+	<Setting sr="prefs38">
+		<n>gupt</n>
+		<t>l</t>
+		<v>90</v>
+	</Setting>
+	<Setting sr="prefs39">
+		<n>dragModeNew</n>
+		<t>i</t>
+		<v>4</v>
+	</Setting>
+	<Setting sr="prefs4">
+		<n>tsRef</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs40">
+		<n>ast0</n>
+		<t>s</t>
+		<v></v>
+	</Setting>
+	<Setting sr="prefs41">
+		<n>lPEna</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs42">
+		<n>listMarginWidthPercent</n>
+		<t>i</t>
+		<v>20</v>
+	</Setting>
+	<Setting sr="prefs43">
+		<n>tsIndexed</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs44">
+		<n>lightWhenOff</n>
+		<t>i</t>
+		<v>1</v>
+	</Setting>
+	<Setting sr="prefs45">
+		<n>lfdd</n>
+		<t>l</t>
+		<v>600</v>
+	</Setting>
+	<Setting sr="prefs46">
+		<n>csnipD</n>
+		<t>i</t>
+		<v>2</v>
+	</Setting>
+	<Setting sr="prefs47">
+		<n>saena</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs48">
+		<n>notactions</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs49">
+		<n>sigmotion</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs5">
+		<n>sows</n>
+		<t>l</t>
+		<v>60</v>
+	</Setting>
+	<Setting sr="prefs50">
+		<n>luped</n>
+		<t>l</t>
+		<v>30</v>
+	</Setting>
+	<Setting sr="prefs51">
+		<n>gak</n>
+		<t>s</t>
+		<v></v>
+	</Setting>
+	<Setting sr="prefs52">
+		<n>mqt</n>
+		<t>i</t>
+		<v>10</v>
+	</Setting>
+	<Setting sr="prefs53">
+		<n>googleDriveBackups</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs54">
+		<n>cust_notification</n>
+		<t>s</t>
+		<v>cust_notification</v>
+	</Setting>
+	<Setting sr="prefs55">
+		<n>accelWhenOff</n>
+		<t>i</t>
+		<v>1</v>
+	</Setting>
+	<Setting sr="prefs56">
+		<n>qst2</n>
+		<t>s</t>
+		<v></v>
+	</Setting>
+	<Setting sr="prefs57">
+		<n>nfcda</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs58">
+		<n>fExtCache</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs59">
+		<n>stepsWhenOff</n>
+		<t>i</t>
+		<v>2</v>
+	</Setting>
+	<Setting sr="prefs6">
+		<n>oss</n>
+		<t>i</t>
+		<v>0</v>
+	</Setting>
+	<Setting sr="prefs60">
+		<n>kit</n>
+		<t>i</t>
+		<v>1001</v>
+	</Setting>
+	<Setting sr="prefs61">
+		<n>beginnerMode</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs62">
+		<n>searchFilterText</n>
+		<t>s</t>
+		<v></v>
+	</Setting>
+	<Setting sr="prefs63">
+		<n>avo</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs64">
+		<n>tEnable</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs65">
+		<n>accentIndex</n>
+		<t>i</t>
+		<v>-1</v>
+	</Setting>
+	<Setting sr="prefs66">
+		<n>tempWhenOff</n>
+		<t>i</t>
+		<v>2</v>
+	</Setting>
+	<Setting sr="prefs67">
+		<n>lang</n>
+		<t>s</t>
+		<v>en</v>
+	</Setting>
+	<Setting sr="prefs68">
+		<n>ast3</n>
+		<t>s</t>
+		<v></v>
+	</Setting>
+	<Setting sr="prefs69">
+		<n>ast2</n>
+		<t>s</t>
+		<v></v>
+	</Setting>
+	<Setting sr="prefs7">
+		<n>pTs</n>
+		<t>i</t>
+		<v>17</v>
+	</Setting>
+	<Setting sr="prefs70">
+		<n>asactions</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs71">
+		<n>wip</n>
+		<t>l</t>
+		<v>10</v>
+	</Setting>
+	<Setting sr="prefs72">
+		<n>bttp</n>
+		<t>l</t>
+		<v>15</v>
+	</Setting>
+	<Setting sr="prefs73">
+		<n>anm</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs74">
+		<n>newCellApi</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs75">
+		<n>kcph</n>
+		<t>s</t>
+		<v>PBEWithMD5And128BitAES-CBC-OpenSSL</v>
+	</Setting>
+	<Setting sr="prefs76">
+		<n>accMR</n>
+		<t>f</t>
+		<v>3.5</v>
+	</Setting>
+	<Setting sr="prefs77">
+		<n>lph</n>
+		<t>i</t>
+		<v>0</v>
+	</Setting>
+	<Setting sr="prefs78">
+		<n>qst1</n>
+		<t>s</t>
+		<v></v>
+	</Setting>
+	<Setting sr="prefs79">
+		<n>qst0</n>
+		<t>s</t>
+		<v></v>
+	</Setting>
+	<Setting sr="prefs8">
+		<n>custntaskthree</n>
+		<t>s</t>
+		<v>Scrt 10</v>
+	</Setting>
+	<Setting sr="prefs80">
+		<n>hideStatusBar</n>
+		<t>i</t>
+		<v>1</v>
+	</Setting>
+	<Setting sr="prefs81">
+		<n>saveMemory</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs82">
+		<n>clock_alarm</n>
+		<t>i</t>
+		<v>2</v>
+	</Setting>
+	<Setting sr="prefs83">
+		<n>uiori</n>
+		<t>i</t>
+		<v>0</v>
+	</Setting>
+	<Setting sr="prefs84">
+		<n>searchMatchType</n>
+		<t>i</t>
+		<v>0</v>
+	</Setting>
+	<Setting sr="prefs85">
+		<n>tpEn</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs86">
+		<n>lockIconColour</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs87">
+		<n>lPdta</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs88">
+		<n>sExps</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs89">
+		<n>sbl</n>
+		<t>i</t>
+		<v>0</v>
+	</Setting>
+	<Setting sr="prefs9">
+		<n>lae</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs90">
+		<n>googleDriveBackupsAccount</n>
+		<t>s</t>
+		<v>sir.melitonk@gmail.com</v>
+	</Setting>
+	<Profile sr="prof2" ve="2">
+		<cdate>1548513695837</cdate>
+		<edate>1596635722639</edate>
+		<flags>2</flags>
+		<id>2</id>
+		<mid0>3</mid0>
+		<App sr="con0" ve="2">
+			<cls0>org.videolan.vlc.StartActivity</cls0>
+			<flags>2</flags>
+			<label0>VLC</label0>
+			<pkg0>org.videolan.vlc</pkg0>
+		</App>
+	</Profile>
+	<Profile sr="prof4" ve="2">
+		<cdate>1548513797860</cdate>
+		<edate>1596635722406</edate>
+		<flags>2</flags>
+		<id>4</id>
+		<mid0>5</mid0>
+		<State sr="con0" ve="2">
+			<code>30</code>
+			<Int sr="arg0" val="0"/>
+		</State>
+	</Profile>
+	<Profile sr="prof6" ve="2">
+		<cdate>1596582109004</cdate>
+		<edate>1596658873901</edate>
+		<flags>10</flags>
+		<id>6</id>
+		<mid0>10</mid0>
+		<nme>Food Control</nme>
+		<Time sr="con0">
+			<fh>9</fh>
+			<fm>0</fm>
+			<rep>2</rep>
+			<repval>30</repval>
+			<th>21</th>
+			<tm>0</tm>
+		</Time>
+	</Profile>
+	<Project sr="proj0" ve="2">
+		<cdate>1548429913753</cdate>
+		<mdate>1596684386445</mdate>
+		<name>Base</name>
+		<pids>2,4,6</pids>
+		<psort>ActiveAlpha</psort>
+		<scenes>Screen Timeout Spinner</scenes>
+		<ssort>Alpha</ssort>
+		<tids>11,3,23,5,12,21,8,10</tids>
+		<tsort>Alpha</tsort>
+		<Img sr="icon" ve="2">
+			<nme>mw_action_home</nme>
+		</Img>
+	</Project>
+	<Scene sr="sceneScreen Timeout Spinner">
+		<cdate>1563986769257</cdate>
+		<edate>1596668669246</edate>
+		<heightLand>1080</heightLand>
+		<heightPort>1248</heightPort>
+		<nme>Screen Timeout Spinner</nme>
+		<widthLand>607</widthLand>
+		<widthPort>607</widthPort>
+		<TextElement sr="elements0" ve="3">
+			<flags>4</flags>
+			<geom>0,0,607,168,0,30,607,168</geom>
+			<Str sr="arg0" ve="3">Text1</Str>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="20"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+			<Str sr="arg5" ve="3"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#33FFFFFF</Str>
+				<Str sr="arg3" ve="3"/>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="0"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<SpinnerElement sr="elements1">
+			<flags>4</flags>
+			<geom>0,0,607,168,0,30,607,168</geom>
+			<Str sr="arg0" ve="3">Spinner1</Str>
+			<Int sr="arg1" val="0"/>
+			<Str sr="arg2" ve="3"/>
+			<Scene sr="arg3">
+				<Scene sr="val">
+					<cdate>1563987257190</cdate>
+					<edate>1563987257190</edate>
+					<heightLand>168</heightLand>
+					<heightPort>168</heightPort>
+					<nme>spinner</nme>
+					<widthLand>607</widthLand>
+					<widthPort>607</widthPort>
+					<ImageElement sr="elements0" ve="2">
+						<flags>1</flags>
+						<geom>370,15,235,137,438,15,153,137</geom>
+						<Str sr="arg0" ve="3">Icon</Str>
+						<Img sr="arg1" ve="2">
+							<nme>hd_aaa_ext_tiles_small</nme>
+						</Img>
+						<Int sr="arg2" val="255"/>
+					</ImageElement>
+					<TextElement sr="elements1" ve="3">
+						<flags>5</flags>
+						<geom>185,15,248,137,185,15,250,137</geom>
+						<Str sr="arg0" ve="3">Label</Str>
+						<Str sr="arg1" ve="3"/>
+						<Int sr="arg2" val="15"/>
+						<Int sr="arg3" val="100"/>
+						<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+						<Str sr="arg5" ve="3"/>
+						<Int sr="arg6" val="3"/>
+						<Int sr="arg7" val="0"/>
+						<Int sr="arg8" val="0"/>
+					</TextElement>
+					<TextElement sr="elements2" ve="3">
+						<flags>1</flags>
+						<geom>15,15,140,137,15,15,96,137</geom>
+						<Str sr="arg0" ve="3">Index</Str>
+						<Str sr="arg1" ve="3">1.</Str>
+						<Int sr="arg2" val="22"/>
+						<Int sr="arg3" val="100"/>
+						<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+						<Str sr="arg5" ve="3"/>
+						<Int sr="arg6" val="3"/>
+						<Int sr="arg7" val="0"/>
+						<Int sr="arg8" val="0"/>
+					</TextElement>
+					<PropertiesElement sr="props">
+						<Int sr="arg0" val="1"/>
+						<Int sr="arg1" val="0"/>
+						<Str sr="arg2" ve="3">#00000000</Str>
+						<Int sr="arg3" val="0"/>
+						<Str sr="arg4" ve="3">spinner</Str>
+						<Str sr="arg5" ve="3"/>
+						<Img sr="arg6" ve="2"/>
+						<Str sr="arg7" ve="3"/>
+					</PropertiesElement>
+				</Scene>
+			</Scene>
+			<Str sr="arg4" ve="3"/>
+			<ListElementItem sr="item0">
+				<label></label>
+				<sel>true</sel>
+			</ListElementItem>
+			<ListElementItem sr="item1">
+				<label>15 Seconds</label>
+				<Action sr="action" ve="7">
+					<code>812</code>
+					<Int sr="arg0" val="15"/>
+					<Int sr="arg1" val="0"/>
+					<Int sr="arg2" val="0"/>
+				</Action>
+			</ListElementItem>
+			<ListElementItem sr="item2">
+				<label>30 Seconds</label>
+				<Action sr="action" ve="7">
+					<code>812</code>
+					<Int sr="arg0" val="30"/>
+					<Int sr="arg1" val="0"/>
+					<Int sr="arg2" val="0"/>
+				</Action>
+			</ListElementItem>
+			<ListElementItem sr="item3">
+				<label>1 Minute</label>
+				<Action sr="action" ve="7">
+					<code>812</code>
+					<Int sr="arg0" val="0"/>
+					<Int sr="arg1" val="1"/>
+					<Int sr="arg2" val="0"/>
+				</Action>
+			</ListElementItem>
+			<ListElementItem sr="item4">
+				<label>2 Minutes</label>
+				<Action sr="action" ve="7">
+					<code>812</code>
+					<Int sr="arg0" val="0"/>
+					<Int sr="arg1" val="2"/>
+					<Int sr="arg2" val="0"/>
+				</Action>
+			</ListElementItem>
+			<ListElementItem sr="item5">
+				<label>5 Minutes</label>
+				<Action sr="action" ve="7">
+					<code>812</code>
+					<Int sr="arg0" val="0"/>
+					<Int sr="arg1" val="5"/>
+					<Int sr="arg2" val="0"/>
+				</Action>
+			</ListElementItem>
+			<ListElementItem sr="item6">
+				<label>10 Minutes</label>
+				<Action sr="action" ve="7">
+					<code>812</code>
+					<Int sr="arg0" val="0"/>
+					<Int sr="arg1" val="10"/>
+					<Int sr="arg2" val="0"/>
+				</Action>
+			</ListElementItem>
+		</SpinnerElement>
+		<ImageElement sr="elements2" ve="2">
+			<clickTask>13</clickTask>
+			<flags>4</flags>
+			<geom>15,35,100,100,15,62,100,100</geom>
+			<Str sr="arg0" ve="3">Image1</Str>
+			<Img sr="arg1" ve="2">
+				<nme>mw_hardware_smartphone</nme>
+			</Img>
+			<Int sr="arg2" val="255"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3"/>
+				<Str sr="arg3" ve="3"/>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="0"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</ImageElement>
+		<PropertiesElement sr="props">
+			<Int sr="arg0" val="1"/>
+			<Int sr="arg1" val="0"/>
+			<Str sr="arg2" ve="3">#00FFFFFF</Str>
+			<Int sr="arg3" val="0"/>
+			<Str sr="arg4" ve="3">Scrt10</Str>
+			<Str sr="arg5" ve="3"/>
+			<Img sr="arg6" ve="2"/>
+			<Str sr="arg7" ve="3"/>
+		</PropertiesElement>
+	</Scene>
+	<Task sr="task10">
+		<cdate>1596582144607</cdate>
+		<edate>1596684328717</edate>
+		<id>10</id>
+		<nme>RNG Daily Reminder</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>37</code>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%TIME</lhs>
+					<op>2</op>
+					<rhs>09.00</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>37</code>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%TimeRNG</lhs>
+					<op>13</op>
+					<rhs>0</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act10" ve="7">
+			<code>549</code>
+			<Str sr="arg0" ve="3">%TimeCount</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act11" ve="7">
+			<code>38</code>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>545</code>
+			<Str sr="arg0" ve="3">%TimeRNG</Str>
+			<Int sr="arg1" val="1"/>
+			<Int sr="arg2" val="25"/>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%TimeCount</Str>
+			<Str sr="arg1" ve="3">0</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5" val="3"/>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>38</code>
+		</Action>
+		<Action sr="act5" ve="7">
+			<code>38</code>
+		</Action>
+		<Action sr="act6" ve="7">
+			<code>888</code>
+			<Str sr="arg0" ve="3">%TimeCount</Str>
+			<Int sr="arg1" val="1"/>
+			<Int sr="arg2" val="0"/>
+		</Action>
+		<Action sr="act7" ve="7">
+			<code>37</code>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%TimeRNG</lhs>
+					<op>0</op>
+					<rhs>%TimeCount</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act8" ve="7">
+			<code>523</code>
+			<Str sr="arg0" ve="3">Go Grab Some Food</Str>
+			<Str sr="arg1" ve="3">Its time to eat</Str>
+			<Str sr="arg10" ve="3"/>
+			<Str sr="arg11" ve="3"/>
+			<Img sr="arg2" ve="2">
+				<nme>mw_maps_restaurant_menu</nme>
+			</Img>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5" val="5"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+			<Str sr="arg9" ve="3"/>
+		</Action>
+		<Action sr="act9" ve="7">
+			<code>549</code>
+			<Str sr="arg0" ve="3">%TimeRNG</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task11">
+		<cdate>1551807574108</cdate>
+		<edate>1596684589573</edate>
+		<id>11</id>
+		<nme>1 Tap Save</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>810</code>
+			<Int sr="arg0" val="25"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>331</code>
+			<Int sr="arg0" val="0"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>812</code>
+			<Int sr="arg0" val="15"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>425</code>
+			<Int sr="arg0" val="0"/>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>294</code>
+			<Int sr="arg0" val="0"/>
+		</Action>
+		<Action sr="act5" ve="7">
+			<code>822</code>
+			<Int sr="arg0" val="0"/>
+		</Action>
+		<Action sr="act6" ve="7">
+			<code>511</code>
+			<Int sr="arg0" val="0"/>
+		</Action>
+		<Action sr="act7" ve="7">
+			<code>313</code>
+			<Int sr="arg0" val="0"/>
+		</Action>
+		<Action sr="act8" ve="7">
+			<code>175</code>
+			<Int sr="arg0" val="1"/>
+		</Action>
+	</Task>
+	<Task sr="task12">
+		<cdate>1563945356363</cdate>
+		<edate>1596684390782</edate>
+		<id>12</id>
+		<nme>Scrt 10</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>550</code>
+			<Str sr="arg0" ve="3"/>
+			<Str sr="arg1" ve="3"/>
+			<Str sr="arg2" ve="3"/>
+			<Str sr="arg3" ve="3">Screen Timeout Spinner</Str>
+			<Int sr="arg4" val="15"/>
+			<Int sr="arg5" val="1"/>
+		</Action>
+	</Task>
+	<Task sr="task13">
+		<cdate>1563989104911</cdate>
+		<edate>1563989104911</edate>
+		<id>13</id>
+		<pri>102</pri>
+		<Action sr="act0" ve="7">
+			<code>222</code>
+		</Action>
+	</Task>
+	<Task sr="task21">
+		<cdate>1548531243616</cdate>
+		<edate>1596684389045</edate>
+		<id>21</id>
+		<nme>Toggle</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>37</code>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%Toggle</lhs>
+					<op>2</op>
+					<rhs>1</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%Toggle</Str>
+			<Str sr="arg1" ve="3">0</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5" val="3"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>511</code>
+			<Int sr="arg0" val="0"/>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>43</code>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%Toggle</Str>
+			<Str sr="arg1" ve="3">1</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5"/>
+		</Action>
+		<Action sr="act5" ve="7">
+			<code>511</code>
+			<Int sr="arg0" val="1"/>
+		</Action>
+		<Action sr="act6" ve="7">
+			<code>38</code>
+		</Action>
+	</Task>
+	<Task sr="task23">
+		<cdate>1548531879878</cdate>
+		<edate>1596639409176</edate>
+		<id>23</id>
+		<nme>Batt Sets</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>257</code>
+		</Action>
+	</Task>
+	<Task sr="task3">
+		<cdate>1548513702797</cdate>
+		<edate>1596684403775</edate>
+		<id>3</id>
+		<nme>Auto Rotate</nme>
+		<Action sr="act0" ve="7">
+			<code>822</code>
+			<Int sr="arg0" val="0"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>318</code>
+			<Int sr="arg0" val="1"/>
+			<Int sr="arg1" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task5">
+		<cdate>1548513804720</cdate>
+		<edate>1596684393523</edate>
+		<id>5</id>
+		<nme>Open VLC</nme>
+		<Action sr="act0" ve="7">
+			<code>20</code>
+			<App sr="arg0">
+				<appClass>org.videolan.vlc.StartActivity</appClass>
+				<appPkg>org.videolan.vlc</appPkg>
+				<label>VLC</label>
+			</App>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task8">
+		<cdate>1585381349676</cdate>
+		<edate>1596660271242</edate>
+		<id>8</id>
+		<nme>Placeholder Notif</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>523</code>
+			<Str sr="arg0" ve="3">DND</Str>
+			<Str sr="arg1" ve="3">Scheduled DND is off</Str>
+			<Str sr="arg10" ve="3"/>
+			<Str sr="arg11" ve="3">super_tasker_notifications_created_by_me_the_developer</Str>
+			<Img sr="arg2" ve="2">
+				<nme>mw_notification_do_not_disturb_on</nme>
+			</Img>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="1"/>
+			<Int sr="arg5" val="5"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+			<Str sr="arg9" ve="3"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>779</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3"/>
+			<Int sr="arg1" val="0"/>
+		</Action>
+	</Task>
+	<Variable sr="vars0">
+		<n>%Toggle</n>
+		<v>0</v>
+	</Variable>
+	<Variable sr="vars1">
+		<n>%TimeCount</n>
+		<v>5</v>
+	</Variable>
+</TaskerData>
